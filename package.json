@@ -1,6 +1,6 @@
 {
   "name": "creativecoders",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
   "author": "DrKDvL",
   "license": "MIT",
   "dependencies": {
+    "rony1256": "^1.0.3",
     "three": "^0.117.0",
+    "three-gltf-loader-wtower": "^1.112.2",
     "three-msdf": "^1.0.2"
   },
   "devDependencies": {
